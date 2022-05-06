@@ -1,12 +1,15 @@
 <div id="header" align="center">
   <h1><strong>Hi, I'm Marcos.</strong></h1>
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="200"/>
+   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="250"/>
 </div>
 
+
+---
 
 <p align="center"><i>A self-taught student currently focusing on studying the basics of Javascript & Front-end Development. :man_technologist:</i></p>
 
 ---
+
 <div id="languages">
   <h4>Languages & Tools I Use:</h4>
   <div>
