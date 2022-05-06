@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <h1><strong>Hi, I'm Marcos.</strong></h1>
+   <h1>Hi, I'm Marcos.</h1>
 </div>
 
 <p align="center"><i>A self-taught student currently focusing on studying the basics of Javascript & Front-end Development. :man_technologist:</i></p>
