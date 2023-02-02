@@ -2,7 +2,7 @@
    <h1>Hi, I'm Marcos.</h1>
 </div>
 
-<p align="center"><i>Self-taught developer, currently focusing on studying the basics of Javascript & Front-end Development. :man_technologist:</i></p>
+<p align="center"><i>Self-taught developer, currently focusing on studying the basics of Typescript & Front-end Development. :man_technologist:</i></p>
 
 ---
 
