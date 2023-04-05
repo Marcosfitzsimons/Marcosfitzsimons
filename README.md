@@ -1,12 +1,12 @@
-<div id="header" align="center">
+<div id="header">
    <h1>Hi, I'm Marcos.</h1>
 </div>
 
-<p align="center"><i>Self-taught developer, currently focusing on studying the basics of Typescript & Front-end Development. :man_technologist:</i></p>
+<p><i>I am a self-taught developer who is currently focusing on honing my skills in front-end and full-stack development. With a solid foundation in Javascript, React.js and Next.js, I am dedicated to creating elegant, efficient, and user-friendly solutions to complex problems. :man_technologist:</i></p>
 
 ---
 
-<div id="languages" align="center">
+<div id="languages">
   <h4>Languages & Tools I Use:</h4>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
@@ -22,7 +22,7 @@
 </div>
 </div>
 
-<div id="contact" align="center">
+<div id="contact">
   <h4>Let's Connect:</h4>
     <div id="badge">
     <a href="https://www.linkedin.com/in/marcos-fitzsimons-70a010208/" target="_blank">
