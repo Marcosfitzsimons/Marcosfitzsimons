@@ -32,9 +32,3 @@
     </a>
   </div>
 </div>
-
----
-
-<div id="card" align="center">
-<a href="https://app.daily.dev/fitzsimons_m"><img src="https://api.daily.dev/devcards/a35e5b0afd8b4f15bd789e540a43b583.png?r=k0c" width="250" alt="Marcos Fitzsimons's Dev Card"/></a>
-</div>
