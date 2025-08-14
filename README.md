@@ -2,7 +2,7 @@
    <h1>Hi, I'm Marcos.</h1>
 </div>
 
-<p> I am a self-taught Full Stack Developer with a solid foundation in TypeScript, JavaScript, React.js, Node.js, and React Native. Passionate about building elegant, efficient, and user-friendly applications, I thrive on solving complex problems and continuously expanding my skill set. :man_technologist:</p>
+<p>I am a Full Stack Developer with a strong foundation in TypeScript, JavaScript, React.js, Node.js, and React Native. Passionate about building elegant, efficient, and user-friendly applications, I excel at solving complex problems and continuously expanding my skill set. :man_technologist:</p>
 
 ---
 
